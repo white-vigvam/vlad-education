@@ -1,0 +1,26 @@
+h1{
+    color: blue;
+    font-size: 40px;
+    width: 500px;
+    text-align: center;
+}
+
+h2{
+    color: green;
+    font-size: 25px;
+    width: 500px;
+    text-align: center;
+    font-weight: normal;
+}
+
+p{
+    width: 500px;
+    text-indent: 50px;
+    font-size: 20px;
+    text-align:justify;
+}
+ul{
+    width: 400px;
+    text-align: justify;
+    font-size: 17px;
+}
